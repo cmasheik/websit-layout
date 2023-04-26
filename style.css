@@ -227,3 +227,7 @@ section{
 	width:10%;
 	padding:0 10px;
 }
+.jak{
+	position:sticky;
+	top:0;
+}
