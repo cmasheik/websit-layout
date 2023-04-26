@@ -1,0 +1,229 @@
+*{
+   margin:0px;
+   padding:0px;
+   box-sizing:border-box;
+
+}
+.container{
+    margin: 0 auto;
+	width:1200px;
+	
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	margin-top:20px;
+	
+	
+	
+}
+.col-1{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-2{
+	width:16.66%;
+	padding:0 15px;
+	
+}
+
+.col-3{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-4{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-5{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-6{
+	width:50%;
+	padding:0 15px;
+	
+	
+}
+
+
+.col-7{
+	width:58.33%;
+	padding:0 15px;
+}
+
+
+.col-8{
+	width:66.66%;
+	padding:0 15px;
+}
+
+
+.col-9{
+	width:75%;
+	padding:0 15px;
+	
+}
+
+
+
+.col-10{
+	width:83.33%;
+	padding:0 15px;
+}
+
+
+
+.col-11{
+	width:91.66%;
+	padding:0 15px;
+}
+
+
+.col-12{
+	width:100%;
+	padding:;
+}
+
+
+section{
+	padding:40px 0;
+}
+.left{
+	background-color:red;
+	height:400px;
+	
+}
+
+.right{
+	background-color:blue;
+	height:400px;
+	
+}
+
+.left1{
+	background-color:red;
+	height:600px;
+	
+}
+
+.right1{
+	background-color:blue;
+	height:600px;
+	
+}
+
+
+.left2{
+	background-color:red;
+	height:400px;
+	
+}
+
+.right2{
+	background-color:blue;
+	height:400px;
+	
+}
+
+
+.left3{
+	background-color:red;
+	height:300px;
+	
+	
+}
+
+.right3{
+	background-color:blue;
+	height:300px;
+	
+}
+
+.left4{
+	background-color:red;
+	height:300px;
+	
+}
+
+.right6{
+	background-color:blue;
+	height:300px;
+	
+}
+
+.left5{
+	background-color:red;
+	height:300px;
+	
+}
+
+.col-new{	
+    width:33.33%;
+	
+}
+
+.right7{
+	background-color:blue;
+	height:500px;
+	
+}
+
+.left7{
+	background-color:red;
+	height:500px;
+	
+}
+
+
+.right12{
+	background-color:blue;
+	height:500px;
+	
+}
+
+.left12{
+	background-color:red;
+	height:500px;
+	
+}
+.col-new1{
+	width:20%;
+	
+}
+
+
+.right122{
+	background-color:blue;
+	height:200px;
+	
+}
+
+.left122{
+	background-color:red;
+	height:200px;
+	
+}
+.right222{
+	
+	background-color:blue;
+	height:50px;
+	
+	
+}
+.left222{
+	
+	background-color:red;
+	height:50px;
+	
+	
+	
+}
+.col-22{
+	width:10%;
+	padding:0 10px;
+}
